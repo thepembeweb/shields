@@ -1,7 +1,0 @@
-package.json
-package-lock.json
-/__snapshots__
-/.next
-/build
-/coverage
-**/*.md
